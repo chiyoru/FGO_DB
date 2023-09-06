@@ -1,0 +1,9 @@
+{
+  "expoServerNgrokUrl": "https://tw-f5b.chiyo.fgo-db.exp.direct",
+  "packagerNgrokUrl": "https://tw-f5b.chiyo.fgo-db.exp.direct",
+  "ngrokPid": 6100,
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "webpackServerPort": 19006
+}

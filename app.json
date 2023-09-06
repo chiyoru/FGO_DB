@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "FGO_DB",
+    "slug": "FGO_DB",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover"
+    },
+    "icon": "./assets/icon.png",
+    "android": {
+      "package": "Chiyo.FGODB"
+    }
+  },
+  "name": "FGO_DB"
+}
